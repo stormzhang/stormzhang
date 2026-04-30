@@ -40,14 +40,12 @@
 
 ---
 
-## 📬 Partnerships & Grants / 合作与专项资助
+## 📬 Partnerships & Grants
 
 **EN:** I am actively seeking **Open Source Grants** and **API Sponsorships** (OpenAI, Anthropic, Google) to fuel my AI-driven developer advocacy. I provide massive reach and deep technical engagement in exchange for API credits and early access.
 
-**CN:** 我正在积极寻求 **AI 开发者专项资助**。我将通过我的 **AI 资讯站 (news.stormzhang.ai)** 及 50 万粉丝渠道，通过实战案例向开发者展示 AI 如何重塑开发流程。
-
 - 🌐 **AI News:** [news.stormzhang.ai](https://news.stormzhang.ai)
-- 📝 **Blog:** [wechat：stormzhang/www.stormzhang.com]
+- 📝 **Blog:** [WeChat Official：stormzhang/www.stormzhang.com]
 - 📧 **Email:** [stormzhang.dev@gmail.com]
 
 ---
