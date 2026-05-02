@@ -19,4 +19,4 @@ Veteran open-source maintainer and technical builder. Currently focused on the i
 
 ### 📫 Connect with me
 * **X (Twitter):** [@stormzhangV](https://x.com/stormzhangV)
-* **Home Page:** [stormzhang.com](https://www.stormzhang.com)
+* **Home Page:** [stormzhang.com](http://www.stormzhang.com)
