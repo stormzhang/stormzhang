@@ -5,5 +5,5 @@
 ### Connect with me
 
 * **X (Twitter):** [@stormzhangV](https://x.com/stormzhangV)
-* **Home Page:** [stormzhang.ai](http://stormzhang.ai)
-* **Email:** [stormzhang.dev@gmail.com]
+* **Home Page:** [stormzhang.ai](https://stormzhang.ai)
+* **Email:** [stormzhang.dev@gmail.com](mailto:stormzhang.dev@gmail.com)
